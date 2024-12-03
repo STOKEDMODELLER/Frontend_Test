@@ -1,6 +1,4 @@
-Here is your `README.md` file:
 
-```markdown
 # Frontend_Test
 
 This repository contains the front-end application for a modern web platform. It is built using **React**, **Webpack**, and **Tailwind CSS**, offering a responsive, dynamic, and scalable user interface.
